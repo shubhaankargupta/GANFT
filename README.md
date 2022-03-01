@@ -4,13 +4,16 @@
 GANFT is a novel implementation of generative adversarial networks (GANs) to create original, Crypto-Punk themed NFTs automatically.
 
 ## Data
-The database consisted of ~10,000 24x24 images of Crypto-Punk NFTs ever created and sold by [LarvaLabs](https://larvalabs.com/cryptopunks).
+The database consisted of ~10,000 24x24 images of Crypto-Punk NFTs created by [LarvaLabs](https://larvalabs.com/cryptopunks).
 
 ## Model
 GANS
 
+
+## Result
+
 ## Compute
-The model was run on Nvidia's `Tesla V-100` on Google Cloud in 7-8 hours.
+The model was trained on Nvidia's `Tesla V-100 GPU` on Google Cloud in 7-8 hours.
 
 
 ## 
