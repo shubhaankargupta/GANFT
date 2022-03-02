@@ -69,7 +69,7 @@ nn.Sigmoid())
 ```
 
 ## Result
-
+![comparison](media/comparison.png)
 
 
 
