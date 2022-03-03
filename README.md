@@ -86,6 +86,6 @@ Since this project is open-source, any donations would be appreciated!
 0xa1F7575E1FAC9ecA41989bAE8B83Eb6789fcF37b
 ```
 # 
-All CryptoPunk illustrations used to train the model are credited to [LarvaLabs](https://larvalabs.com/cryptopunks). I do not intend to make profits from their intellectual property.
-
 **I plan to make this repository grow further by introducing newer methods to get much better results, or potentially pivot towards other artistic styles. Feel free to send in a PR, Issue, or get in touch if you want to contribute.**
+
+All CryptoPunk illustrations used to train the model are credited to [LarvaLabs](https://larvalabs.com/cryptopunks). I do not intend to make profits from their intellectual property.
