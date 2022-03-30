@@ -1,10 +1,10 @@
 # GANFTs: Creating NFTs with Generative Models
 ![grid](media/nftgrid.gif)
 
-GANFT is an initiative to use GANs to create novel Crypto-Punk themed illustrations (very commonly used as Non-Fungible Tokens). Code and newer styles/methods will be uploaded soon.
+GANFTs are an initiative to produce illustrations using generative deep learning models for the purpose of minting NFTs. So far, this project aims to use GANs to create novel Crypto-Punk themed illustrations (very commonly used as NFTs). Code and newer styles/methods will be uploaded soon.
 
 
-## Model
+## V1
 
 
 #### Generator
@@ -65,13 +65,13 @@ nn.Flatten(),
 nn.Sigmoid())
 ```
 
-## Result
+### Result
 ![comparison](media/comparison.png)
 
 
 
 
-## Compute
+### Compute
 `Tesla V-100 GPU` on Google Cloud.
 
 
