@@ -8,7 +8,6 @@ GANFT is a novel implementation of generative adversarial networks (GANs) to cre
 The database consists of ~10,000 24x24 images of Crypto-Punk NFTs created by [LarvaLabs](https://larvalabs.com/cryptopunks).
 
 ## Model
-The model is a generative adversarial network consisting of a generator and discriminator with 5 layers each. Naturally, increasing the number of epochs would increase the quality of the output.
 
 
 #### Generator
@@ -76,7 +75,7 @@ nn.Sigmoid())
 
 
 ## Compute
-The model was trained on Nvidia's `Tesla V-100 GPU` on Google Cloud in 7-8 hours.
+`Tesla V-100 GPU` on Google Cloud.
 
 
 
