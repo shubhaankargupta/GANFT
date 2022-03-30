@@ -1,11 +1,8 @@
 # GANFTs: Creating NFTs with Generative Models
 ![grid](media/nftgrid.gif)
 
-GANFT is a novel implementation of generative adversarial networks (GANs) to create original, Crypto-Punk themed NFTs automatically.
+GANFT is a novel implementation of generative adversarial networks (GANs) to create original Crypto-Punk themed NFTs. Code and newer styles/methods will be uploaded soon.
 
-
-## Data
-The database consists of ~10,000 24x24 images of Crypto-Punk NFTs created by [LarvaLabs](https://larvalabs.com/cryptopunks).
 
 ## Model
 
