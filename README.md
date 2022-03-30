@@ -1,7 +1,7 @@
 # GANFTs: Creating NFTs with Generative Models
 ![grid](media/nftgrid.gif)
 
-GANFT is an implementation of GANs to create original Crypto-Punk themed illustrations (very commonly used in NFTs). Code and newer styles/methods will be committed soon.
+GANFT is an initiative to use GANs to create novel Crypto-Punk themed illustrations (very commonly used as Non-Fungible Tokens). Code and newer styles/methods will be uploaded soon.
 
 
 ## Model
