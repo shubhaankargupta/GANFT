@@ -72,7 +72,7 @@ nn.Sigmoid())
 
 
 ### Compute
-`Tesla V-100 GPU` on Google Cloud.
+`Tesla A-100 GPU` on Google Cloud.
 
 
 
