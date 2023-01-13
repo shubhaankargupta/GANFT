@@ -84,4 +84,4 @@ Since this project is open-source, any donations would be appreciated!
 # 
 **I plan to make this repository grow further by introducing newer methods to get much better results, or potentially pivot towards other artistic styles. Feel free to send in a PR, Issue, or get in touch if you want to contribute.**
 
-All CryptoPunk illustrations used are credited to [LarvaLabs](https://larvalabs.com/cryptopunks). I do not intend to make profits from their intellectual property.
+All open-source CryptoPunk illustrations used are credited to [LarvaLabs](https://larvalabs.com/cryptopunks).
